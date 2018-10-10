@@ -1,0 +1,19 @@
+html {
+  background-color: lightblue;
+}
+.flashy {
+  font-style: italic;
+  color: red;
+}
+.best {
+  font-weight: bold;
+  font-size: 20px;
+}
+img {
+  width: 20%;
+  height: 20%;
+}
+h1,h2 {
+  text-align: center;
+  color: blue;
+}
