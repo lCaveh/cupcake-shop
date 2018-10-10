@@ -1,4 +1,4 @@
-# _Resort Website_
+# _Cupcake webpage_
 
 #### _single Webpage for Epicodus, 10.10.2018_
 
